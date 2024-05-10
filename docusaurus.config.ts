@@ -4,12 +4,12 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 
 const config: Config = {
-  title: 'LIRA DAO Whitepaper',
+  title: 'LIRA DAO Docs',
   tagline: 'The cryptocurrency global revolution',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://whitepaper.liradao.org',
+  url: 'https://docs.liradao.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -17,7 +17,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lira-dao', // Usually your GitHub org/user name.
-  projectName: 'whitepaper-site', // Usually your repo name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -65,9 +65,9 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'whitepaperSidebar',
+          sidebarId: 'MainSidebar',
           position: 'left',
-          label: 'Whitepaper',
+          label: 'Docs',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -85,10 +85,10 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Whitepaper',
+          title: 'Docs',
           items: [
             {
-              label: 'Whitepaper',
+              label: 'Docs',
               to: '/',
             },
           ],
