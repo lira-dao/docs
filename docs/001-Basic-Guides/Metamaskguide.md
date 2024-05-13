@@ -7,9 +7,15 @@ title: Metamask Guide
 
 1. Install MetaMask: Visit the MetaMask website (metamask.io) and download the appropriate extension for your web browser (Chrome, Firefox, Brave, or Edge). Follow the instructions to install the MetaMask extension.
 
+![Wallet Creation](/img/SS2.png) 
+
 2. Create a new wallet: Open MetaMask by clicking on the extension icon in your browser toolbar. Click on "Get Started" and then "Create a Wallet". Enter a strong password to secure your wallet. Read and agree to the terms of use and privacy policy.
 
+![Wallet Creation](/img/SS1.png) 
+
 3. Backup your seed phrase: MetaMask will display a seed phrase consisting of 12 or 24 words. These words serve as a backup for your wallet and should be written down in the correct order. Store them in a safe place offline. Confirm the seed phrase to ensure you've written it correctly.
+
+![Wallet Creation](/img/SS3.png) 
 
 4. Access your wallet: After backing up your seed phrase, you'll be prompted to unlock your wallet. Enter your password to access your MetaMask wallet.
 
@@ -17,7 +23,11 @@ title: Metamask Guide
  
 6. Connect to a network: By default, MetaMask connects to the Ethereum mainnet. If you want to interact with other networks, such as testnets or custom networks, click on the network dropdown and select the desired network. You can also add custom networks by clicking on "Custom RPC".
 
+![Wallet Creation](/img/SS5.png)
+
 7. Fund your wallet: To add funds to your MetaMask wallet, click on the account icon and copy your wallet address. Send funds from an exchange or another wallet to this address. Ensure that you choose the correct network when sending the funds.
+
+![Wallet Creation](/img/SS4.png) 
 
 8. Explore additional features: MetaMask offers additional features such as token management, dApps browser, and transaction history. Spend some time familiarizing yourself with these features to make the most of your MetaMask wallet.
 
