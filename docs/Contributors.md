@@ -44,6 +44,7 @@ Some issues are tagged with bounty. Issues with this tag have a reward in LDT fo
         - When the issue is tagged as resolved, it is deployed on testnet usually within a few hours or at most the following day.
 - QA Verification:
         - The issue is checked by our QA team. If everything is correct, the issue can be released to production.
+        - The contributor who resolved the issue is then eligible to receive the reward.
 - Reward Distribution:
         - Communicate your wallet address via a support ticket to receive the reward.
 
